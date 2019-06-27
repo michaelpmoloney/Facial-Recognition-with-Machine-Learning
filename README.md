@@ -32,7 +32,7 @@ Usage:<br>
 Program Outline & Responsiblities (R)<br>
 <br>
 TestVerification.m<br>
-    1.) R - Timothy F. / Adrian M.<br>
+    1.) R - Timothy F. / Adrian M.<br><br>
         GUI Initialization code (lines 31 to 48)<br>
         function TestVerification_OpeningFcn(hObject, eventdata, handles, varargin)<br>
         function varargout = TestVerification_OutputFcn(hObject, eventdata, handles)<br>
