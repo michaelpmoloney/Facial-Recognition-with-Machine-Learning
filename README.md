@@ -31,7 +31,7 @@ Usage:<br>
 <br>
 Program Outline & Responsiblities (R)<br>
 <br>
-`TestVerification.m<br>
+TestVerification.m<br>
     1.) R - Timothy F. / Adrian M.<br>
         GUI Initialization code (lines 31 to 48)<br>
         function TestVerification_OpeningFcn(hObject, eventdata, handles, varargin)<br>
