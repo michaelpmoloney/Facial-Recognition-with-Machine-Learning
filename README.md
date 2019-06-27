@@ -23,7 +23,7 @@ Usage:<br>
 1.) In MATLAB Command Window, type TestVerification to begin the program. <br>
 2.) First select the student's name you are trying to verify. This will begin the training and set the matching to the student's folder. ( Go to step 5 if student name is not in drop down box.)<br>
 3.) Click the Verify ID then click Camera. Follow all the prompts in the message boxes and dialoge boxes.<br>
-4.  If matched, then in the right window you will have a matched image from the database. If not matched then you will have a red x. <br>
+4.) If matched, then in the right window you will have a matched image from the database. If not matched then you will have a red x. <br>
 5.) If student is not in the database then go to Database menu option. Then click New Student to add a new folder to FaceDatabaseFolder.<br> 
 6.) Then add new student image by scrolling to Database then clicking New Student Picture to add a new student picture. Follow all the prompts.  <br>
 7.) Reset the prgram after you added the new pictures. <br>
