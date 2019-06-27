@@ -11,7 +11,7 @@ images GUI's database. The database will automatically check if the<br>
 matched faced from the live captured image is present in the database.<br>
  <br>
 Assumptions: <br>
-- User knows basic usage of a computers components (mouse, keyboard,<br>
+- User knows basic usage of a computers components (mouse, keyboard,
 webcam, etc.)<br>
 - Must download the complete zip file and not edit the orgnization of the folders. <br>
 - User has MATLAB2018a with Computer Vision toolbox, Image Acquistion<br>
@@ -32,8 +32,8 @@ Usage:<br>
 Program Outline & Responsiblities (R)<br>
 <br>
 TestVerification.m<br>
-    1.) R - Timothy F. / Adrian M.<br>
-        GUI Initialization code (lines 31 to 48)<br>
+    -1.) R - Timothy F. / Adrian M.<br>
+        -GUI Initialization code (lines 31 to 48)<br>
         function TestVerification_OpeningFcn(hObject, eventdata, handles, varargin)<br>
         function varargout = TestVerification_OutputFcn(hObject, eventdata, handles)<br>
     <br>
