@@ -32,39 +32,39 @@ Usage:<br>
 Program Outline & Responsiblities (R)<br>
 <br>
 TestVerification.m<br>
-    1.) R - Timothy F. / Adrian M.<br>
-        GUI Initialization code (lines 31 to 48)<br>
-        function TestVerification_OpeningFcn(hObject, eventdata, handles, varargin)<br>
-        function varargout = TestVerification_OutputFcn(hObject, eventdata, handles)<br>
+    ...1.) R - Timothy F. / Adrian M.<br>
+        ......GUI Initialization code (lines 31 to 48)<br>
+        ......function TestVerification_OpeningFcn(hObject, eventdata, handles, varargin)<br>
+        ......function varargout = TestVerification_OutputFcn(hObject, eventdata, handles)<br>
     <br>
     2.) R - Micheal M. <br>
 <br>
-        function Verify_Callback(hObject, eventdata, handles) <br>
-        function Camera_Callback(hObject, eventdata, handles)<br>
+        ...function Verify_Callback(hObject, eventdata, handles) <br>
+        ...function Camera_Callback(hObject, eventdata, handles)<br>
 <br>
     3.) R - Adrian M. / Timothy F. (RAHUL)<br>
 <br>
-        function Database_Callback(hObject, eventdata, handles)<br>
-        function View_Callback(hObject, eventdata, handles)<br>
-        function Picture_Callback(hObject, eventdata, handles)<br>
-        function New_Student_Callback(hObject, eventdata, handles)<br>
+        ...function Database_Callback(hObject, eventdata, handles)<br>
+        ...function View_Callback(hObject, eventdata, handles)<br>
+        ...function Picture_Callback(hObject, eventdata, handles)<br>
+        ...function New_Student_Callback(hObject, eventdata, handles)<br>
 <br>
     4.) R - Timothy F. <br>
 <br>
-        function Other_Callback(hObject, eventdata, handles)<br>
-        function HE_LP_Callback(hObject, eventdata, handles)<br>
+        ...function Other_Callback(hObject, eventdata, handles)<br>
+        ...function HE_LP_Callback(hObject, eventdata, handles)<br>
         <br>
-        function Reset_Callback(hObject, eventdata, handles)<br>
-        function All_Callback(hObject, eventdata, handles)<br>
+        ...function Reset_Callback(hObject, eventdata, handles)<br>
+        ...function All_Callback(hObject, eventdata, handles)<br>
 <br>
-        function Exit_Callback(hObject, eventdata, handles)<br>
-        function Quit_Callback(hObject, eventdata, handles)<br>
+        ...function Exit_Callback(hObject, eventdata, handles)<br>
+        ...function Quit_Callback(hObject, eventdata, handles)<br>
 <br>
     5.) R - Micheal M. <br>
 <br>
-        function Student_Select_Callback(hObject, eventdata, handles)<br>
+        ...function Student_Select_Callback(hObject, eventdata, handles)<br>
 <br>
-        function Student_Select_CreateFcn(hObject, eventdata, handles)<br>
+        ...function Student_Select_CreateFcn(hObject, eventdata, handles)<br>
 <br>
 <br>
 train_match.m (AVI)<br>
@@ -77,9 +77,9 @@ train_match.m (AVI)<br>
                 function match<br>
 
 Other Responsiblities:<br>
-    Troubleshooting / Debugging: All<br>
-    Ideas : All<br>
-    Video Editing: Micheal M. <br>
+    ...Troubleshooting / Debugging: All<br>
+    ...Ideas : All<br>
+    ...Video Editing: Micheal M. <br>
 <br>
 <br>
 Notes: <br>
