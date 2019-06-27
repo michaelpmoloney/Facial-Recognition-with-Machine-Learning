@@ -1,6 +1,5 @@
 # Facial-Recognition-with-Machine-Learning
 
-%{<br>
 Edited From: RAHUL RANJAN, Avi Nehemiah, MATHWORKS & MATLAB Applications<br>
 <br>
 Authors: Timothy F. (CSC 6630/tfisher10), Kevin S.(CSC 4630/kseveur1), Micheal M.<br>
@@ -52,7 +51,6 @@ TestVerification.m<br>
 <br>
     4.) R - Timothy F. <br>
 <br>
-<br>
         function Other_Callback(hObject, eventdata, handles)<br>
         function HE_LP_Callback(hObject, eventdata, handles)<br>
         <br>
@@ -91,4 +89,3 @@ Notes: <br>
 - Must install all the toolboxs/adaptors for this to fully function. <br>
 - Keep the folder/file names consistent and keep the same structure as downloaded orginally.  <br>
 <br>
-%}
