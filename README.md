@@ -31,11 +31,11 @@ Usage:<br>
 <br>
 Program Outline & Responsiblities (R)<br>
 <br>
-TestVerification.m<br>
+TestVerification.m
 1. R - Timothy F. / Adrian M.
-  * GUI Initialization code (lines 31 to 48)
-  * function TestVerification_OpeningFcn(hObject, eventdata, handles, varargin)
-  * function varargout = TestVerification_OutputFcn(hObject, eventdata, handles)
+   * GUI Initialization code (lines 31 to 48)
+   * function TestVerification_OpeningFcn(hObject, eventdata, handles, varargin)
+   * function varargout = TestVerification_OutputFcn(hObject, eventdata, handles)
     <br>
     2.) R - Micheal M. <br>
 <br>
